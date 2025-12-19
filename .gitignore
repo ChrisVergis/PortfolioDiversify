@@ -18,6 +18,7 @@ venv/
 *.log
 *.tmp
 *.csv
+*.png
 
 # Secrets
 .env
